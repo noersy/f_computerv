@@ -1,0 +1,3 @@
+0 blight
+1 brownspot
+2 leafsmut
